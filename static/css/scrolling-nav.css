@@ -7,6 +7,9 @@
 header {
   padding: 154px 0 100px;
 }
+.bg-primary{
+    background-color:#1c5a6d !important;
+}
 
 @media (min-width: 992px) {
   header {
@@ -16,4 +19,7 @@ header {
 
 section {
   padding: 150px 0;
+}
+.bg-dark{
+    background-color:	 #204060 !important;
 }
