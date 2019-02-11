@@ -10,6 +10,9 @@ header {
 .bg-primary{
     background-color:#1c5a6d !important;
 }
+{
+    <i class="fas fa-bone"></i>
+}
 
 @media (min-width: 992px) {
   header {
